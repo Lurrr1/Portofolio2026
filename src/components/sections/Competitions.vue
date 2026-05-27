@@ -139,7 +139,7 @@
             class="col-span-2 md:col-start-2 md:row-start-1 md:col-span-2 md:row-span-2 bg-neutral-300 overflow-hidden cursor-pointer group relative aspect-video md:aspect-auto border-b md:border-b-0 border-neutral-100/20"
           >
             <img
-              src="D:\Vue\Porto\public\images\Electro.webp"
+              src="../../../public/images/Electro.webp"
               alt="Electronics Team"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />
@@ -149,7 +149,7 @@
             class="col-span-1 md:col-start-1 md:row-start-1 bg-neutral-300 overflow-hidden cursor-pointer group relative aspect-square md:aspect-auto border-b border-r md:border-b-0 md:border-r-0 border-neutral-100/20"
           >
             <img
-              src="D:\Vue\Porto\public\images\Cprom.webp"
+              src="../../../public/images/Cprom.webp"
               alt="Cprom"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />
@@ -159,7 +159,7 @@
             class="col-span-1 md:col-start-1 md:row-start-2 md:row-span-2 bg-neutral-300 overflow-hidden cursor-pointer group relative aspect-square md:aspect-auto border-b md:border-b-0 border-neutral-100/20"
           >
             <img
-              src="D:\Vue\Porto\public\images\Agrosmart.webp"
+              src="../../../public/images/Agrosmart.webp"
               alt="AgroSmart"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />
@@ -169,7 +169,7 @@
             class="col-span-1 md:col-start-2 md:row-start-3 bg-neutral-300 overflow-hidden cursor-pointer group relative aspect-square md:aspect-auto border-r md:border-r-0 border-neutral-100/20"
           >
             <img
-              src="D:\Vue\Porto\public\images\Echo.webp"
+              src="../../../public/images/Echo.webp"
               alt="Echo"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />
@@ -179,7 +179,7 @@
             class="col-span-1 md:col-start-3 md:row-start-3 bg-neutral-300 overflow-hidden cursor-pointer group relative aspect-square md:aspect-auto"
           >
             <img
-              src="D:\Vue\Porto\public\images\Bangkit.webp"
+              src="../../../public/images/Bangkit.webp"
               alt="Bangkit"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />

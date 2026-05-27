@@ -47,7 +47,7 @@
             class="w-full h-full bg-neutral-300 rounded-sm overflow-hidden shadow-md transition-all duration-700 group cursor-pointer ring-1 ring-neutral-400/50"
           >
             <img
-              src="D:\Vue\Porto\public\images\Asdos.webp"
+              src="../../../public/images/Asdos.webp"
               alt="Teaching Assistantship"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />
@@ -59,7 +59,7 @@
             class="w-full h-full bg-neutral-300 rounded-sm overflow-hidden shadow-md transition-all duration-700 group cursor-pointer ring-1 ring-neutral-400/50"
           >
             <img
-              src="D:\Vue\Porto\public\images\Organisasi.webp"
+              src="../../../public/images/Organisasi.webp"
               alt="Organizational Mentorship"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />
@@ -71,7 +71,7 @@
             class="w-full h-full bg-neutral-300 rounded-sm overflow-hidden shadow-md transition-all duration-700 group cursor-pointer ring-1 ring-neutral-400/50"
           >
             <img
-              src="D:\Vue\Porto\public\images\Organisasi1.webp"
+              src="../../../public/images/Organisasi1.webp"
               alt="Project Mentorship"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />
@@ -83,7 +83,7 @@
             class="w-full h-full bg-neutral-300 rounded-sm overflow-hidden shadow-md transition-all duration-700 group cursor-pointer ring-1 ring-neutral-400/50"
           >
             <img
-              src="D:\Vue\Porto\public\images\Sd.webp"
+              src="../../../public/images/Sd.webp"
               alt="Community Mentorship"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />

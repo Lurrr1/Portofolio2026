@@ -97,7 +97,7 @@
               class="overflow-hidden relative group cursor-pointer border-r border-neutral-100/20"
             >
               <img
-                src="D:\Vue\Porto\public\images\Me.webp"
+                src="../../../public/images/Me.webp"
                 alt="Groot 1:1 Top"
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
               />
@@ -106,7 +106,7 @@
               class="overflow-hidden relative group cursor-pointer border-b border-neutral-100/20"
             >
               <img
-                src="D:\Vue\Porto\public\images\Groot.webp"
+                src="../../../public/images/Groot.webp"
                 alt="Groot 16:9 Atas"
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
               />
@@ -118,14 +118,14 @@
               class="overflow-hidden relative group cursor-pointer border-r border-neutral-100/20"
             >
               <img
-                src="D:\Vue\Porto\public\images\Groot2.webp"
+                src="../../../public/images/Groot2.webp"
                 alt="Groot 16:9 Bawah"
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
               />
             </div>
             <div class="overflow-hidden relative group cursor-pointer">
               <img
-                src="D:\Vue\Porto\public\images\Chairman.webp"
+                src="../../../public/images/Chairman.webp"
                 alt="Chairman"
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
               />

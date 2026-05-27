@@ -47,7 +47,7 @@
           class="w-full aspect-video bg-neutral-300 rounded-sm overflow-hidden shadow-lg transition-all duration-700 ring-1 ring-neutral-400/50 mt-8 md:mt-auto group cursor-pointer relative z-10"
         >
           <img
-            src="D:\Vue\Porto\public\images\Comunity.webp"
+            src="../../../public/images/Comunity.webp"
             alt="IoT Teaching and Community Service"
             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
           />

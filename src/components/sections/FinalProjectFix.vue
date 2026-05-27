@@ -114,7 +114,7 @@
             class="col-span-2 row-span-1 bg-neutral-400 overflow-hidden group cursor-pointer relative border-b border-neutral-100/20"
           >
             <img
-              src="D:\Vue\Porto\public\images\Sempro.webp"
+              src="../../../public/images/Sempro.webp"
               alt="Sempro"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />
@@ -124,7 +124,7 @@
             class="col-span-1 row-span-1 bg-neutral-400 overflow-hidden group cursor-pointer relative border-r border-neutral-100/20"
           >
             <img
-              src="D:\Vue\Porto\public\images\Samantha.webp"
+              src="../../../public/images/Samantha.webp"
               alt="Samantha"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />
@@ -134,7 +134,7 @@
             class="col-span-1 row-span-1 bg-neutral-400 overflow-hidden group cursor-pointer relative"
           >
             <img
-              src="D:\Vue\Porto\public\images\Pose.webp"
+              src="../../../public/images/Pose.webp"
               alt="Pose"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
             />

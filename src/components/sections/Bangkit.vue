@@ -45,7 +45,7 @@
                 class="h-[40%] w-full bg-neutral-400 overflow-hidden group cursor-pointer relative"
               >
                 <img
-                  src="D:\Vue\Porto\public\images\Team1.webp"
+                  src="../../../public/images/Team1.webp"
                   alt="Team 1"
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
                 />
@@ -55,7 +55,7 @@
                 class="h-[60%] w-full bg-neutral-400 overflow-hidden group cursor-pointer relative"
               >
                 <img
-                  src="D:\Vue\Porto\public\images\View.webp"
+                  src="../../../public/images/View.webp"
                   alt="View"
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
                 />
@@ -78,7 +78,7 @@
                   class="w-[45%] h-full bg-neutral-400 overflow-hidden group cursor-pointer relative"
                 >
                   <img
-                    src="D:\Vue\Porto\public\images\Team.webp"
+                    src="../../../public/images/Team.webp"
                     alt="Team"
                     class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
                   />
@@ -88,7 +88,7 @@
                   class="w-[55%] h-full bg-neutral-400 overflow-hidden group cursor-pointer relative"
                 >
                   <img
-                    src="D:\Vue\Porto\public\images\Glusity.webp"
+                    src="../../../public/images/Glusity.webp"
                     alt="Glusity"
                     class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
                   />

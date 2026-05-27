@@ -39,7 +39,7 @@
               class="w-28 md:w-full h-28 md:h-40 lg:h-64 bg-neutral-300 overflow-hidden rounded-sm shrink-0 shadow-md"
             >
               <img
-                src="/images/Profil.webp"
+                src="../../../public/images/Profil.webp"
                 alt="Fadhlur Rohman"
                 class="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               />

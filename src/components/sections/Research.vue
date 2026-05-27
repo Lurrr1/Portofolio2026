@@ -132,7 +132,7 @@
           class="w-[85%] sm:w-[60%] md:w-auto md:h-[75%] lg:h-[80%] aspect-[1/1.414] bg-neutral-300 rounded-sm overflow-hidden shadow-2xl group relative ring-1 ring-neutral-400/50 cursor-pointer pointer-events-auto"
         >
           <img
-            src="D:\Vue\Porto\public\images\Sensing.webp"
+            src="../../../public/images/Sensing.webp"
             alt="Environmental Remote Sensing Poster"
             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
           />
