@@ -21,7 +21,7 @@ import Research from './components/sections/Research.vue'
 import Teaching from './components/sections/Teaching.vue'
 import Chairman from './components/sections/Chairman.vue'
 import Competitions from './components/sections/Competitions.vue'
-import FinalProject from './components/sections/FinalProject.vue'
+import FinalProject from './components/sections/FinalProjectFix.vue'
 import Quote from './components/sections/Quote.vue'
 import Contact from './components/sections/Contact.vue'
 </script>
