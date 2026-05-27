@@ -67,7 +67,7 @@
                 class="h-[60%] w-full bg-neutral-400 overflow-hidden group cursor-pointer relative"
               >
                 <img
-                  src="D:\Vue\Porto\public\images\Final.webp"
+                  src="../../../public/images/Final.webp"
                   alt="Final"
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
                 />
